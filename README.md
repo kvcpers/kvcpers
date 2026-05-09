@@ -1,5 +1,4 @@
 <!--- special thanks to https://github.com/adnanazmee, https://github.com/AAL1X/, and https://github.com/daria-stanilevici, components from their profiles inspired this one! --->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1>Hi, I am Kacper Pagacz!</h1>
 
 <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" height="200px" width="200px" align="right">
@@ -16,7 +15,6 @@ On the product side, I ship EdTech learning tools by implementing AI features in
 ### Are you an employer?
 > [!IMPORTANT]
 > <a href="#" download><strong>Here's my resume!</strong></a>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br><br>
 
