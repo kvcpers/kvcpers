@@ -5,10 +5,10 @@
 <br>
 I’m an IT/software engineer, passionate about building at the intersection of AI, web development, and security.
 
-On the AI side, I build real-time inference pipelines and agent systems for clients — social media automation, LLM-powered auto-replies, spam filtering, and human-in-the-loop routing.
-On the product side, I ship EdTech learning tools by implementing AI features into a learning platform for children learning Python, fintech/crypto platforms like Coinsignal with live market data and sentiment analysis, and security-minded full-stack apps with JWT auth, field-level encryption, and tokenization. <br>
+On the AI side, I build real-time inference pipelines and agent systems for clients social media automation, LLM-powered auto-replies, spam filtering, and human-in-the-loop routing.
+On the product side, I've shipped a bunch of things: AI features inside a Python learning platform for kids, fintech/crypto tools like Coinsignal with live market data and sentiment analysis, and security-minded full-stack apps with JWT auth, field-level encryption, and tokenization. <br>
 - 📚 Currently pursuing a Master’s in Cybersecurity (already hold an IT bachelor’s), with interests in pentesting, SOC tooling, and AppSec. <br>
-- Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, golfing, powerlifting, and speedcubing.<br>
+- Outside tech, I enjoy hanging out with friends, running, playing soccer, golfing, lifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="mailto:kacper13136@gmail.com">kacper13136@gmail.com</a>
 
 ### Are you an employer?
