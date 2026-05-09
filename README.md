@@ -3,7 +3,6 @@
 
 <img src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" height="200px" width="200px" align="right">
 <br>
-<br>
 I’m an IT/software engineer, passionate about building at the intersection of AI, web development, and security.
 
 On the AI side, I build real-time inference pipelines and agent systems for clients — social media automation, LLM-powered auto-replies, spam filtering, and human-in-the-loop routing.
