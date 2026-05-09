@@ -8,7 +8,7 @@
 I’m an IT/software engineer, passionate about building at the intersection of AI, web development, and security.
 
 On the AI side, I build real-time inference pipelines and agent systems for clients — social media automation, LLM-powered auto-replies, spam filtering, and human-in-the-loop routing.
-On the product side, I ship EdTech learning tools (interactive Python games like “Pythle”), fintech/crypto platforms like Coinsignal with live market data and sentiment analysis, and security-minded full-stack apps with JWT auth, field-level encryption, and tokenization. <br>
+On the product side, I ship EdTech learning tools by implementing AI features into a learning platform for children learning Python, fintech/crypto platforms like Coinsignal with live market data and sentiment analysis, and security-minded full-stack apps with JWT auth, field-level encryption, and tokenization. <br>
 - 📚 Currently pursuing a Master’s in Cybersecurity (already hold an IT bachelor’s), with interests in pentesting, SOC tooling, and AppSec. <br>
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, golfing, powerlifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="mailto:kacper13136@gmail.com">kacper13136@gmail.com</a>
@@ -76,7 +76,6 @@ Here are a few things I've picked up along my learning journey!
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvcpers&theme=tokyonight" alt="GitHub Profile Summary" height="165px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvcpers&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="190px">
 </div>
 
 <br>
@@ -86,4 +85,4 @@ Here are a few things I've picked up along my learning journey!
 **📫 Reach out!**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-p/) (#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacper-p/)
