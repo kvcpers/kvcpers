@@ -1,7 +1,6 @@
 <!--- special thanks to https://github.com/adnanazmee, https://github.com/AAL1X/, and https://github.com/daria-stanilevici, components from their profiles inspired this one! --->
 <h1>Hi, I am Kacper Pagacz!</h1>
 
-<img src="https://media.tenor.com/a2m-Y3dLmD0AAAAi/mona-github-loading-github.gif" height="200px" width="200px" align="right">
 <br>
 I’m an IT/software engineer, passionate about building at the intersection of AI, web development, and security.
 
@@ -11,9 +10,6 @@ On the product side, I've shipped a bunch of things: AI features inside a Python
 - Outside tech, I enjoy hanging out with friends, running, playing soccer, golfing, lifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="mailto:kacper13136@gmail.com">kacper13136@gmail.com</a>
 
-### Are you an employer?
-> [!IMPORTANT]
-> <a href="#" download><strong>Here's my resume!</strong></a>
 
 <br><br>
 
